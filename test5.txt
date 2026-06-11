@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-place:cuddalore
-=======
-place: delhi
->>>>>>> techpanda2
+Chennai,madurai,theni,
+1234567890
+
